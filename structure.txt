@@ -1,0 +1,1710 @@
+Folder PATH listing for volume New Volume
+Volume serial number is FEDA-6D9C
+C:.
+³   .env
+³   .gitignore
+³   Git-2.50.1-64-bit.exe
+³   README.md
+³   requirements.txt
+³   structure.txt
+³   Telegram_Medical_Project.code-workspace
+³   
+ÃÄÄÄ.vscode
+³       extensions.json
+³       
+ÃÄÄÄconfig
+ÃÄÄÄdata
+³   ÃÄÄÄprocessed
+³   ÀÄÄÄraw
+³           images
+³           telegram_messages
+³           
+ÃÄÄÄNew folder
+ÃÄÄÄnotebooks
+³       scraping.ipynb
+³       Yolo.ipynb
+³       
+ÃÄÄÄscripts
+³       main.py
+³       pipeline.py
+³       pipeline_with_schedule.py
+³       
+ÀÄÄÄvenv
+    ³   .gitignore
+    ³   pyvenv.cfg
+    ³   
+    ÃÄÄÄInclude
+    ÃÄÄÄLib
+    ³   ÀÄÄÄsite-packages
+    ³       ÃÄÄÄdotenv
+    ³       ³   ³   cli.py
+    ³       ³   ³   ipython.py
+    ³       ³   ³   main.py
+    ³       ³   ³   parser.py
+    ³       ³   ³   py.typed
+    ³       ³   ³   variables.py
+    ³       ³   ³   version.py
+    ³       ³   ³   __init__.py
+    ³       ³   ³   __main__.py
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ³           cli.cpython-313.pyc
+    ³       ³           ipython.cpython-313.pyc
+    ³       ³           main.cpython-313.pyc
+    ³       ³           parser.cpython-313.pyc
+    ³       ³           variables.cpython-313.pyc
+    ³       ³           version.cpython-313.pyc
+    ³       ³           __init__.cpython-313.pyc
+    ³       ³           __main__.cpython-313.pyc
+    ³       ³           
+    ³       ÃÄÄÄpip
+    ³       ³   ³   py.typed
+    ³       ³   ³   __init__.py
+    ³       ³   ³   __main__.py
+    ³       ³   ³   __pip-runner__.py
+    ³       ³   ³   
+    ³       ³   ÃÄÄÄ_internal
+    ³       ³   ³   ³   build_env.py
+    ³       ³   ³   ³   cache.py
+    ³       ³   ³   ³   configuration.py
+    ³       ³   ³   ³   exceptions.py
+    ³       ³   ³   ³   main.py
+    ³       ³   ³   ³   pyproject.py
+    ³       ³   ³   ³   self_outdated_check.py
+    ³       ³   ³   ³   wheel_builder.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÃÄÄÄcli
+    ³       ³   ³   ³   ³   autocompletion.py
+    ³       ³   ³   ³   ³   base_command.py
+    ³       ³   ³   ³   ³   cmdoptions.py
+    ³       ³   ³   ³   ³   command_context.py
+    ³       ³   ³   ³   ³   index_command.py
+    ³       ³   ³   ³   ³   main.py
+    ³       ³   ³   ³   ³   main_parser.py
+    ³       ³   ³   ³   ³   parser.py
+    ³       ³   ³   ³   ³   progress_bars.py
+    ³       ³   ³   ³   ³   req_command.py
+    ³       ³   ³   ³   ³   spinners.py
+    ³       ³   ³   ³   ³   status_codes.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           autocompletion.cpython-313.pyc
+    ³       ³   ³   ³           base_command.cpython-313.pyc
+    ³       ³   ³   ³           cmdoptions.cpython-313.pyc
+    ³       ³   ³   ³           command_context.cpython-313.pyc
+    ³       ³   ³   ³           index_command.cpython-313.pyc
+    ³       ³   ³   ³           main.cpython-313.pyc
+    ³       ³   ³   ³           main_parser.cpython-313.pyc
+    ³       ³   ³   ³           parser.cpython-313.pyc
+    ³       ³   ³   ³           progress_bars.cpython-313.pyc
+    ³       ³   ³   ³           req_command.cpython-313.pyc
+    ³       ³   ³   ³           spinners.cpython-313.pyc
+    ³       ³   ³   ³           status_codes.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄcommands
+    ³       ³   ³   ³   ³   cache.py
+    ³       ³   ³   ³   ³   check.py
+    ³       ³   ³   ³   ³   completion.py
+    ³       ³   ³   ³   ³   configuration.py
+    ³       ³   ³   ³   ³   debug.py
+    ³       ³   ³   ³   ³   download.py
+    ³       ³   ³   ³   ³   freeze.py
+    ³       ³   ³   ³   ³   hash.py
+    ³       ³   ³   ³   ³   help.py
+    ³       ³   ³   ³   ³   index.py
+    ³       ³   ³   ³   ³   inspect.py
+    ³       ³   ³   ³   ³   install.py
+    ³       ³   ³   ³   ³   list.py
+    ³       ³   ³   ³   ³   lock.py
+    ³       ³   ³   ³   ³   search.py
+    ³       ³   ³   ³   ³   show.py
+    ³       ³   ³   ³   ³   uninstall.py
+    ³       ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           cache.cpython-313.pyc
+    ³       ³   ³   ³           check.cpython-313.pyc
+    ³       ³   ³   ³           completion.cpython-313.pyc
+    ³       ³   ³   ³           configuration.cpython-313.pyc
+    ³       ³   ³   ³           debug.cpython-313.pyc
+    ³       ³   ³   ³           download.cpython-313.pyc
+    ³       ³   ³   ³           freeze.cpython-313.pyc
+    ³       ³   ³   ³           hash.cpython-313.pyc
+    ³       ³   ³   ³           help.cpython-313.pyc
+    ³       ³   ³   ³           index.cpython-313.pyc
+    ³       ³   ³   ³           inspect.cpython-313.pyc
+    ³       ³   ³   ³           install.cpython-313.pyc
+    ³       ³   ³   ³           list.cpython-313.pyc
+    ³       ³   ³   ³           lock.cpython-313.pyc
+    ³       ³   ³   ³           search.cpython-313.pyc
+    ³       ³   ³   ³           show.cpython-313.pyc
+    ³       ³   ³   ³           uninstall.cpython-313.pyc
+    ³       ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄdistributions
+    ³       ³   ³   ³   ³   base.py
+    ³       ³   ³   ³   ³   installed.py
+    ³       ³   ³   ³   ³   sdist.py
+    ³       ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           base.cpython-313.pyc
+    ³       ³   ³   ³           installed.cpython-313.pyc
+    ³       ³   ³   ³           sdist.cpython-313.pyc
+    ³       ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄindex
+    ³       ³   ³   ³   ³   collector.py
+    ³       ³   ³   ³   ³   package_finder.py
+    ³       ³   ³   ³   ³   sources.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           collector.cpython-313.pyc
+    ³       ³   ³   ³           package_finder.cpython-313.pyc
+    ³       ³   ³   ³           sources.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄlocations
+    ³       ³   ³   ³   ³   base.py
+    ³       ³   ³   ³   ³   _distutils.py
+    ³       ³   ³   ³   ³   _sysconfig.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           base.cpython-313.pyc
+    ³       ³   ³   ³           _distutils.cpython-313.pyc
+    ³       ³   ³   ³           _sysconfig.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄmetadata
+    ³       ³   ³   ³   ³   base.py
+    ³       ³   ³   ³   ³   pkg_resources.py
+    ³       ³   ³   ³   ³   _json.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄimportlib
+    ³       ³   ³   ³   ³   ³   _compat.py
+    ³       ³   ³   ³   ³   ³   _dists.py
+    ³       ³   ³   ³   ³   ³   _envs.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           _compat.cpython-313.pyc
+    ³       ³   ³   ³   ³           _dists.cpython-313.pyc
+    ³       ³   ³   ³   ³           _envs.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           base.cpython-313.pyc
+    ³       ³   ³   ³           pkg_resources.cpython-313.pyc
+    ³       ³   ³   ³           _json.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄmodels
+    ³       ³   ³   ³   ³   candidate.py
+    ³       ³   ³   ³   ³   direct_url.py
+    ³       ³   ³   ³   ³   format_control.py
+    ³       ³   ³   ³   ³   index.py
+    ³       ³   ³   ³   ³   installation_report.py
+    ³       ³   ³   ³   ³   link.py
+    ³       ³   ³   ³   ³   pylock.py
+    ³       ³   ³   ³   ³   scheme.py
+    ³       ³   ³   ³   ³   search_scope.py
+    ³       ³   ³   ³   ³   selection_prefs.py
+    ³       ³   ³   ³   ³   target_python.py
+    ³       ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           candidate.cpython-313.pyc
+    ³       ³   ³   ³           direct_url.cpython-313.pyc
+    ³       ³   ³   ³           format_control.cpython-313.pyc
+    ³       ³   ³   ³           index.cpython-313.pyc
+    ³       ³   ³   ³           installation_report.cpython-313.pyc
+    ³       ³   ³   ³           link.cpython-313.pyc
+    ³       ³   ³   ³           pylock.cpython-313.pyc
+    ³       ³   ³   ³           scheme.cpython-313.pyc
+    ³       ³   ³   ³           search_scope.cpython-313.pyc
+    ³       ³   ³   ³           selection_prefs.cpython-313.pyc
+    ³       ³   ³   ³           target_python.cpython-313.pyc
+    ³       ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄnetwork
+    ³       ³   ³   ³   ³   auth.py
+    ³       ³   ³   ³   ³   cache.py
+    ³       ³   ³   ³   ³   download.py
+    ³       ³   ³   ³   ³   lazy_wheel.py
+    ³       ³   ³   ³   ³   session.py
+    ³       ³   ³   ³   ³   utils.py
+    ³       ³   ³   ³   ³   xmlrpc.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           auth.cpython-313.pyc
+    ³       ³   ³   ³           cache.cpython-313.pyc
+    ³       ³   ³   ³           download.cpython-313.pyc
+    ³       ³   ³   ³           lazy_wheel.cpython-313.pyc
+    ³       ³   ³   ³           session.cpython-313.pyc
+    ³       ³   ³   ³           utils.cpython-313.pyc
+    ³       ³   ³   ³           xmlrpc.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄoperations
+    ³       ³   ³   ³   ³   check.py
+    ³       ³   ³   ³   ³   freeze.py
+    ³       ³   ³   ³   ³   prepare.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄbuild
+    ³       ³   ³   ³   ³   ³   build_tracker.py
+    ³       ³   ³   ³   ³   ³   metadata.py
+    ³       ³   ³   ³   ³   ³   metadata_editable.py
+    ³       ³   ³   ³   ³   ³   metadata_legacy.py
+    ³       ³   ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   ³   wheel_editable.py
+    ³       ³   ³   ³   ³   ³   wheel_legacy.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           build_tracker.cpython-313.pyc
+    ³       ³   ³   ³   ³           metadata.cpython-313.pyc
+    ³       ³   ³   ³   ³           metadata_editable.cpython-313.pyc
+    ³       ³   ³   ³   ³           metadata_legacy.cpython-313.pyc
+    ³       ³   ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³   ³           wheel_editable.cpython-313.pyc
+    ³       ³   ³   ³   ³           wheel_legacy.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄinstall
+    ³       ³   ³   ³   ³   ³   editable_legacy.py
+    ³       ³   ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           editable_legacy.cpython-313.pyc
+    ³       ³   ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           check.cpython-313.pyc
+    ³       ³   ³   ³           freeze.cpython-313.pyc
+    ³       ³   ³   ³           prepare.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄreq
+    ³       ³   ³   ³   ³   constructors.py
+    ³       ³   ³   ³   ³   req_dependency_group.py
+    ³       ³   ³   ³   ³   req_file.py
+    ³       ³   ³   ³   ³   req_install.py
+    ³       ³   ³   ³   ³   req_set.py
+    ³       ³   ³   ³   ³   req_uninstall.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           constructors.cpython-313.pyc
+    ³       ³   ³   ³           req_dependency_group.cpython-313.pyc
+    ³       ³   ³   ³           req_file.cpython-313.pyc
+    ³       ³   ³   ³           req_install.cpython-313.pyc
+    ³       ³   ³   ³           req_set.cpython-313.pyc
+    ³       ³   ³   ³           req_uninstall.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄresolution
+    ³       ³   ³   ³   ³   base.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄlegacy
+    ³       ³   ³   ³   ³   ³   resolver.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           resolver.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄresolvelib
+    ³       ³   ³   ³   ³   ³   base.py
+    ³       ³   ³   ³   ³   ³   candidates.py
+    ³       ³   ³   ³   ³   ³   factory.py
+    ³       ³   ³   ³   ³   ³   found_candidates.py
+    ³       ³   ³   ³   ³   ³   provider.py
+    ³       ³   ³   ³   ³   ³   reporter.py
+    ³       ³   ³   ³   ³   ³   requirements.py
+    ³       ³   ³   ³   ³   ³   resolver.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           base.cpython-313.pyc
+    ³       ³   ³   ³   ³           candidates.cpython-313.pyc
+    ³       ³   ³   ³   ³           factory.cpython-313.pyc
+    ³       ³   ³   ³   ³           found_candidates.cpython-313.pyc
+    ³       ³   ³   ³   ³           provider.cpython-313.pyc
+    ³       ³   ³   ³   ³           reporter.cpython-313.pyc
+    ³       ³   ³   ³   ³           requirements.cpython-313.pyc
+    ³       ³   ³   ³   ³           resolver.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           base.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄutils
+    ³       ³   ³   ³   ³   appdirs.py
+    ³       ³   ³   ³   ³   compat.py
+    ³       ³   ³   ³   ³   compatibility_tags.py
+    ³       ³   ³   ³   ³   datetime.py
+    ³       ³   ³   ³   ³   deprecation.py
+    ³       ³   ³   ³   ³   direct_url_helpers.py
+    ³       ³   ³   ³   ³   egg_link.py
+    ³       ³   ³   ³   ³   entrypoints.py
+    ³       ³   ³   ³   ³   filesystem.py
+    ³       ³   ³   ³   ³   filetypes.py
+    ³       ³   ³   ³   ³   glibc.py
+    ³       ³   ³   ³   ³   hashes.py
+    ³       ³   ³   ³   ³   logging.py
+    ³       ³   ³   ³   ³   misc.py
+    ³       ³   ³   ³   ³   packaging.py
+    ³       ³   ³   ³   ³   retry.py
+    ³       ³   ³   ³   ³   setuptools_build.py
+    ³       ³   ³   ³   ³   subprocess.py
+    ³       ³   ³   ³   ³   temp_dir.py
+    ³       ³   ³   ³   ³   unpacking.py
+    ³       ³   ³   ³   ³   urls.py
+    ³       ³   ³   ³   ³   virtualenv.py
+    ³       ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   _jaraco_text.py
+    ³       ³   ³   ³   ³   _log.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           appdirs.cpython-313.pyc
+    ³       ³   ³   ³           compat.cpython-313.pyc
+    ³       ³   ³   ³           compatibility_tags.cpython-313.pyc
+    ³       ³   ³   ³           datetime.cpython-313.pyc
+    ³       ³   ³   ³           deprecation.cpython-313.pyc
+    ³       ³   ³   ³           direct_url_helpers.cpython-313.pyc
+    ³       ³   ³   ³           egg_link.cpython-313.pyc
+    ³       ³   ³   ³           entrypoints.cpython-313.pyc
+    ³       ³   ³   ³           filesystem.cpython-313.pyc
+    ³       ³   ³   ³           filetypes.cpython-313.pyc
+    ³       ³   ³   ³           glibc.cpython-313.pyc
+    ³       ³   ³   ³           hashes.cpython-313.pyc
+    ³       ³   ³   ³           logging.cpython-313.pyc
+    ³       ³   ³   ³           misc.cpython-313.pyc
+    ³       ³   ³   ³           packaging.cpython-313.pyc
+    ³       ³   ³   ³           retry.cpython-313.pyc
+    ³       ³   ³   ³           setuptools_build.cpython-313.pyc
+    ³       ³   ³   ³           subprocess.cpython-313.pyc
+    ³       ³   ³   ³           temp_dir.cpython-313.pyc
+    ³       ³   ³   ³           unpacking.cpython-313.pyc
+    ³       ³   ³   ³           urls.cpython-313.pyc
+    ³       ³   ³   ³           virtualenv.cpython-313.pyc
+    ³       ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³           _jaraco_text.cpython-313.pyc
+    ³       ³   ³   ³           _log.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄvcs
+    ³       ³   ³   ³   ³   bazaar.py
+    ³       ³   ³   ³   ³   git.py
+    ³       ³   ³   ³   ³   mercurial.py
+    ³       ³   ³   ³   ³   subversion.py
+    ³       ³   ³   ³   ³   versioncontrol.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           bazaar.cpython-313.pyc
+    ³       ³   ³   ³           git.cpython-313.pyc
+    ³       ³   ³   ³           mercurial.cpython-313.pyc
+    ³       ³   ³   ³           subversion.cpython-313.pyc
+    ³       ³   ³   ³           versioncontrol.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           build_env.cpython-313.pyc
+    ³       ³   ³           cache.cpython-313.pyc
+    ³       ³   ³           configuration.cpython-313.pyc
+    ³       ³   ³           exceptions.cpython-313.pyc
+    ³       ³   ³           main.cpython-313.pyc
+    ³       ³   ³           pyproject.cpython-313.pyc
+    ³       ³   ³           self_outdated_check.cpython-313.pyc
+    ³       ³   ³           wheel_builder.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄ_vendor
+    ³       ³   ³   ³   typing_extensions.py
+    ³       ³   ³   ³   vendor.txt
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÃÄÄÄcachecontrol
+    ³       ³   ³   ³   ³   adapter.py
+    ³       ³   ³   ³   ³   cache.py
+    ³       ³   ³   ³   ³   controller.py
+    ³       ³   ³   ³   ³   filewrapper.py
+    ³       ³   ³   ³   ³   heuristics.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   serialize.py
+    ³       ³   ³   ³   ³   wrapper.py
+    ³       ³   ³   ³   ³   _cmd.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄcaches
+    ³       ³   ³   ³   ³   ³   file_cache.py
+    ³       ³   ³   ³   ³   ³   redis_cache.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           file_cache.cpython-313.pyc
+    ³       ³   ³   ³   ³           redis_cache.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           adapter.cpython-313.pyc
+    ³       ³   ³   ³           cache.cpython-313.pyc
+    ³       ³   ³   ³           controller.cpython-313.pyc
+    ³       ³   ³   ³           filewrapper.cpython-313.pyc
+    ³       ³   ³   ³           heuristics.cpython-313.pyc
+    ³       ³   ³   ³           serialize.cpython-313.pyc
+    ³       ³   ³   ³           wrapper.cpython-313.pyc
+    ³       ³   ³   ³           _cmd.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄcertifi
+    ³       ³   ³   ³   ³   cacert.pem
+    ³       ³   ³   ³   ³   core.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __main__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           core.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __main__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄdependency_groups
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   _implementation.py
+    ³       ³   ³   ³   ³   _lint_dependency_groups.py
+    ³       ³   ³   ³   ³   _pip_wrapper.py
+    ³       ³   ³   ³   ³   _toml_compat.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __main__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           _implementation.cpython-313.pyc
+    ³       ³   ³   ³           _lint_dependency_groups.cpython-313.pyc
+    ³       ³   ³   ³           _pip_wrapper.cpython-313.pyc
+    ³       ³   ³   ³           _toml_compat.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __main__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄdistlib
+    ³       ³   ³   ³   ³   compat.py
+    ³       ³   ³   ³   ³   database.py
+    ³       ³   ³   ³   ³   index.py
+    ³       ³   ³   ³   ³   locators.py
+    ³       ³   ³   ³   ³   manifest.py
+    ³       ³   ³   ³   ³   markers.py
+    ³       ³   ³   ³   ³   metadata.py
+    ³       ³   ³   ³   ³   resources.py
+    ³       ³   ³   ³   ³   scripts.py
+    ³       ³   ³   ³   ³   t32.exe
+    ³       ³   ³   ³   ³   t64-arm.exe
+    ³       ³   ³   ³   ³   t64.exe
+    ³       ³   ³   ³   ³   util.py
+    ³       ³   ³   ³   ³   version.py
+    ³       ³   ³   ³   ³   w32.exe
+    ³       ³   ³   ³   ³   w64-arm.exe
+    ³       ³   ³   ³   ³   w64.exe
+    ³       ³   ³   ³   ³   wheel.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           compat.cpython-313.pyc
+    ³       ³   ³   ³           database.cpython-313.pyc
+    ³       ³   ³   ³           index.cpython-313.pyc
+    ³       ³   ³   ³           locators.cpython-313.pyc
+    ³       ³   ³   ³           manifest.cpython-313.pyc
+    ³       ³   ³   ³           markers.cpython-313.pyc
+    ³       ³   ³   ³           metadata.cpython-313.pyc
+    ³       ³   ³   ³           resources.cpython-313.pyc
+    ³       ³   ³   ³           scripts.cpython-313.pyc
+    ³       ³   ³   ³           util.cpython-313.pyc
+    ³       ³   ³   ³           version.cpython-313.pyc
+    ³       ³   ³   ³           wheel.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄdistro
+    ³       ³   ³   ³   ³   distro.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __main__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           distro.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __main__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄidna
+    ³       ³   ³   ³   ³   codec.py
+    ³       ³   ³   ³   ³   compat.py
+    ³       ³   ³   ³   ³   core.py
+    ³       ³   ³   ³   ³   idnadata.py
+    ³       ³   ³   ³   ³   intranges.py
+    ³       ³   ³   ³   ³   package_data.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   uts46data.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           codec.cpython-313.pyc
+    ³       ³   ³   ³           compat.cpython-313.pyc
+    ³       ³   ³   ³           core.cpython-313.pyc
+    ³       ³   ³   ³           idnadata.cpython-313.pyc
+    ³       ³   ³   ³           intranges.cpython-313.pyc
+    ³       ³   ³   ³           package_data.cpython-313.pyc
+    ³       ³   ³   ³           uts46data.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄmsgpack
+    ³       ³   ³   ³   ³   exceptions.py
+    ³       ³   ³   ³   ³   ext.py
+    ³       ³   ³   ³   ³   fallback.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           exceptions.cpython-313.pyc
+    ³       ³   ³   ³           ext.cpython-313.pyc
+    ³       ³   ³   ³           fallback.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄpackaging
+    ³       ³   ³   ³   ³   markers.py
+    ³       ³   ³   ³   ³   metadata.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   requirements.py
+    ³       ³   ³   ³   ³   specifiers.py
+    ³       ³   ³   ³   ³   tags.py
+    ³       ³   ³   ³   ³   utils.py
+    ³       ³   ³   ³   ³   version.py
+    ³       ³   ³   ³   ³   _elffile.py
+    ³       ³   ³   ³   ³   _manylinux.py
+    ³       ³   ³   ³   ³   _musllinux.py
+    ³       ³   ³   ³   ³   _parser.py
+    ³       ³   ³   ³   ³   _structures.py
+    ³       ³   ³   ³   ³   _tokenizer.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄlicenses
+    ³       ³   ³   ³   ³   ³   _spdx.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           _spdx.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           markers.cpython-313.pyc
+    ³       ³   ³   ³           metadata.cpython-313.pyc
+    ³       ³   ³   ³           requirements.cpython-313.pyc
+    ³       ³   ³   ³           specifiers.cpython-313.pyc
+    ³       ³   ³   ³           tags.cpython-313.pyc
+    ³       ³   ³   ³           utils.cpython-313.pyc
+    ³       ³   ³   ³           version.cpython-313.pyc
+    ³       ³   ³   ³           _elffile.cpython-313.pyc
+    ³       ³   ³   ³           _manylinux.cpython-313.pyc
+    ³       ³   ³   ³           _musllinux.cpython-313.pyc
+    ³       ³   ³   ³           _parser.cpython-313.pyc
+    ³       ³   ³   ³           _structures.cpython-313.pyc
+    ³       ³   ³   ³           _tokenizer.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄpkg_resources
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄplatformdirs
+    ³       ³   ³   ³   ³   android.py
+    ³       ³   ³   ³   ³   api.py
+    ³       ³   ³   ³   ³   macos.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   unix.py
+    ³       ³   ³   ³   ³   version.py
+    ³       ³   ³   ³   ³   windows.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __main__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           android.cpython-313.pyc
+    ³       ³   ³   ³           api.cpython-313.pyc
+    ³       ³   ³   ³           macos.cpython-313.pyc
+    ³       ³   ³   ³           unix.cpython-313.pyc
+    ³       ³   ³   ³           version.cpython-313.pyc
+    ³       ³   ³   ³           windows.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __main__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄpygments
+    ³       ³   ³   ³   ³   console.py
+    ³       ³   ³   ³   ³   filter.py
+    ³       ³   ³   ³   ³   formatter.py
+    ³       ³   ³   ³   ³   lexer.py
+    ³       ³   ³   ³   ³   modeline.py
+    ³       ³   ³   ³   ³   plugin.py
+    ³       ³   ³   ³   ³   regexopt.py
+    ³       ³   ³   ³   ³   scanner.py
+    ³       ³   ³   ³   ³   sphinxext.py
+    ³       ³   ³   ³   ³   style.py
+    ³       ³   ³   ³   ³   token.py
+    ³       ³   ³   ³   ³   unistring.py
+    ³       ³   ³   ³   ³   util.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __main__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄfilters
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄformatters
+    ³       ³   ³   ³   ³   ³   _mapping.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           _mapping.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄlexers
+    ³       ³   ³   ³   ³   ³   python.py
+    ³       ³   ³   ³   ³   ³   _mapping.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           python.cpython-313.pyc
+    ³       ³   ³   ³   ³           _mapping.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄstyles
+    ³       ³   ³   ³   ³   ³   _mapping.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           _mapping.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           console.cpython-313.pyc
+    ³       ³   ³   ³           filter.cpython-313.pyc
+    ³       ³   ³   ³           formatter.cpython-313.pyc
+    ³       ³   ³   ³           lexer.cpython-313.pyc
+    ³       ³   ³   ³           modeline.cpython-313.pyc
+    ³       ³   ³   ³           plugin.cpython-313.pyc
+    ³       ³   ³   ³           regexopt.cpython-313.pyc
+    ³       ³   ³   ³           scanner.cpython-313.pyc
+    ³       ³   ³   ³           sphinxext.cpython-313.pyc
+    ³       ³   ³   ³           style.cpython-313.pyc
+    ³       ³   ³   ³           token.cpython-313.pyc
+    ³       ³   ³   ³           unistring.cpython-313.pyc
+    ³       ³   ³   ³           util.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __main__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄpyproject_hooks
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   _impl.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄ_in_process
+    ³       ³   ³   ³   ³   ³   _in_process.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           _in_process.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           _impl.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄrequests
+    ³       ³   ³   ³   ³   adapters.py
+    ³       ³   ³   ³   ³   api.py
+    ³       ³   ³   ³   ³   auth.py
+    ³       ³   ³   ³   ³   certs.py
+    ³       ³   ³   ³   ³   compat.py
+    ³       ³   ³   ³   ³   cookies.py
+    ³       ³   ³   ³   ³   exceptions.py
+    ³       ³   ³   ³   ³   help.py
+    ³       ³   ³   ³   ³   hooks.py
+    ³       ³   ³   ³   ³   models.py
+    ³       ³   ³   ³   ³   packages.py
+    ³       ³   ³   ³   ³   sessions.py
+    ³       ³   ³   ³   ³   status_codes.py
+    ³       ³   ³   ³   ³   structures.py
+    ³       ³   ³   ³   ³   utils.py
+    ³       ³   ³   ³   ³   _internal_utils.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __version__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           adapters.cpython-313.pyc
+    ³       ³   ³   ³           api.cpython-313.pyc
+    ³       ³   ³   ³           auth.cpython-313.pyc
+    ³       ³   ³   ³           certs.cpython-313.pyc
+    ³       ³   ³   ³           compat.cpython-313.pyc
+    ³       ³   ³   ³           cookies.cpython-313.pyc
+    ³       ³   ³   ³           exceptions.cpython-313.pyc
+    ³       ³   ³   ³           help.cpython-313.pyc
+    ³       ³   ³   ³           hooks.cpython-313.pyc
+    ³       ³   ³   ³           models.cpython-313.pyc
+    ³       ³   ³   ³           packages.cpython-313.pyc
+    ³       ³   ³   ³           sessions.cpython-313.pyc
+    ³       ³   ³   ³           status_codes.cpython-313.pyc
+    ³       ³   ³   ³           structures.cpython-313.pyc
+    ³       ³   ³   ³           utils.cpython-313.pyc
+    ³       ³   ³   ³           _internal_utils.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __version__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄresolvelib
+    ³       ³   ³   ³   ³   providers.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   reporters.py
+    ³       ³   ³   ³   ³   structs.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄresolvers
+    ³       ³   ³   ³   ³   ³   abstract.py
+    ³       ³   ³   ³   ³   ³   criterion.py
+    ³       ³   ³   ³   ³   ³   exceptions.py
+    ³       ³   ³   ³   ³   ³   resolution.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           abstract.cpython-313.pyc
+    ³       ³   ³   ³   ³           criterion.cpython-313.pyc
+    ³       ³   ³   ³   ³           exceptions.cpython-313.pyc
+    ³       ³   ³   ³   ³           resolution.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           providers.cpython-313.pyc
+    ³       ³   ³   ³           reporters.cpython-313.pyc
+    ³       ³   ³   ³           structs.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄrich
+    ³       ³   ³   ³   ³   abc.py
+    ³       ³   ³   ³   ³   align.py
+    ³       ³   ³   ³   ³   ansi.py
+    ³       ³   ³   ³   ³   bar.py
+    ³       ³   ³   ³   ³   box.py
+    ³       ³   ³   ³   ³   cells.py
+    ³       ³   ³   ³   ³   color.py
+    ³       ³   ³   ³   ³   color_triplet.py
+    ³       ³   ³   ³   ³   columns.py
+    ³       ³   ³   ³   ³   console.py
+    ³       ³   ³   ³   ³   constrain.py
+    ³       ³   ³   ³   ³   containers.py
+    ³       ³   ³   ³   ³   control.py
+    ³       ³   ³   ³   ³   default_styles.py
+    ³       ³   ³   ³   ³   diagnose.py
+    ³       ³   ³   ³   ³   emoji.py
+    ³       ³   ³   ³   ³   errors.py
+    ³       ³   ³   ³   ³   filesize.py
+    ³       ³   ³   ³   ³   file_proxy.py
+    ³       ³   ³   ³   ³   highlighter.py
+    ³       ³   ³   ³   ³   json.py
+    ³       ³   ³   ³   ³   jupyter.py
+    ³       ³   ³   ³   ³   layout.py
+    ³       ³   ³   ³   ³   live.py
+    ³       ³   ³   ³   ³   live_render.py
+    ³       ³   ³   ³   ³   logging.py
+    ³       ³   ³   ³   ³   markup.py
+    ³       ³   ³   ³   ³   measure.py
+    ³       ³   ³   ³   ³   padding.py
+    ³       ³   ³   ³   ³   pager.py
+    ³       ³   ³   ³   ³   palette.py
+    ³       ³   ³   ³   ³   panel.py
+    ³       ³   ³   ³   ³   pretty.py
+    ³       ³   ³   ³   ³   progress.py
+    ³       ³   ³   ³   ³   progress_bar.py
+    ³       ³   ³   ³   ³   prompt.py
+    ³       ³   ³   ³   ³   protocol.py
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   region.py
+    ³       ³   ³   ³   ³   repr.py
+    ³       ³   ³   ³   ³   rule.py
+    ³       ³   ³   ³   ³   scope.py
+    ³       ³   ³   ³   ³   screen.py
+    ³       ³   ³   ³   ³   segment.py
+    ³       ³   ³   ³   ³   spinner.py
+    ³       ³   ³   ³   ³   status.py
+    ³       ³   ³   ³   ³   style.py
+    ³       ³   ³   ³   ³   styled.py
+    ³       ³   ³   ³   ³   syntax.py
+    ³       ³   ³   ³   ³   table.py
+    ³       ³   ³   ³   ³   terminal_theme.py
+    ³       ³   ³   ³   ³   text.py
+    ³       ³   ³   ³   ³   theme.py
+    ³       ³   ³   ³   ³   themes.py
+    ³       ³   ³   ³   ³   traceback.py
+    ³       ³   ³   ³   ³   tree.py
+    ³       ³   ³   ³   ³   _cell_widths.py
+    ³       ³   ³   ³   ³   _emoji_codes.py
+    ³       ³   ³   ³   ³   _emoji_replace.py
+    ³       ³   ³   ³   ³   _export_format.py
+    ³       ³   ³   ³   ³   _extension.py
+    ³       ³   ³   ³   ³   _fileno.py
+    ³       ³   ³   ³   ³   _inspect.py
+    ³       ³   ³   ³   ³   _log_render.py
+    ³       ³   ³   ³   ³   _loop.py
+    ³       ³   ³   ³   ³   _null_file.py
+    ³       ³   ³   ³   ³   _palettes.py
+    ³       ³   ³   ³   ³   _pick.py
+    ³       ³   ³   ³   ³   _ratio.py
+    ³       ³   ³   ³   ³   _spinners.py
+    ³       ³   ³   ³   ³   _stack.py
+    ³       ³   ³   ³   ³   _timer.py
+    ³       ³   ³   ³   ³   _win32_console.py
+    ³       ³   ³   ³   ³   _windows.py
+    ³       ³   ³   ³   ³   _windows_renderer.py
+    ³       ³   ³   ³   ³   _wrap.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   __main__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           abc.cpython-313.pyc
+    ³       ³   ³   ³           align.cpython-313.pyc
+    ³       ³   ³   ³           ansi.cpython-313.pyc
+    ³       ³   ³   ³           bar.cpython-313.pyc
+    ³       ³   ³   ³           box.cpython-313.pyc
+    ³       ³   ³   ³           cells.cpython-313.pyc
+    ³       ³   ³   ³           color.cpython-313.pyc
+    ³       ³   ³   ³           color_triplet.cpython-313.pyc
+    ³       ³   ³   ³           columns.cpython-313.pyc
+    ³       ³   ³   ³           console.cpython-313.pyc
+    ³       ³   ³   ³           constrain.cpython-313.pyc
+    ³       ³   ³   ³           containers.cpython-313.pyc
+    ³       ³   ³   ³           control.cpython-313.pyc
+    ³       ³   ³   ³           default_styles.cpython-313.pyc
+    ³       ³   ³   ³           diagnose.cpython-313.pyc
+    ³       ³   ³   ³           emoji.cpython-313.pyc
+    ³       ³   ³   ³           errors.cpython-313.pyc
+    ³       ³   ³   ³           filesize.cpython-313.pyc
+    ³       ³   ³   ³           file_proxy.cpython-313.pyc
+    ³       ³   ³   ³           highlighter.cpython-313.pyc
+    ³       ³   ³   ³           json.cpython-313.pyc
+    ³       ³   ³   ³           jupyter.cpython-313.pyc
+    ³       ³   ³   ³           layout.cpython-313.pyc
+    ³       ³   ³   ³           live.cpython-313.pyc
+    ³       ³   ³   ³           live_render.cpython-313.pyc
+    ³       ³   ³   ³           logging.cpython-313.pyc
+    ³       ³   ³   ³           markup.cpython-313.pyc
+    ³       ³   ³   ³           measure.cpython-313.pyc
+    ³       ³   ³   ³           padding.cpython-313.pyc
+    ³       ³   ³   ³           pager.cpython-313.pyc
+    ³       ³   ³   ³           palette.cpython-313.pyc
+    ³       ³   ³   ³           panel.cpython-313.pyc
+    ³       ³   ³   ³           pretty.cpython-313.pyc
+    ³       ³   ³   ³           progress.cpython-313.pyc
+    ³       ³   ³   ³           progress_bar.cpython-313.pyc
+    ³       ³   ³   ³           prompt.cpython-313.pyc
+    ³       ³   ³   ³           protocol.cpython-313.pyc
+    ³       ³   ³   ³           region.cpython-313.pyc
+    ³       ³   ³   ³           repr.cpython-313.pyc
+    ³       ³   ³   ³           rule.cpython-313.pyc
+    ³       ³   ³   ³           scope.cpython-313.pyc
+    ³       ³   ³   ³           screen.cpython-313.pyc
+    ³       ³   ³   ³           segment.cpython-313.pyc
+    ³       ³   ³   ³           spinner.cpython-313.pyc
+    ³       ³   ³   ³           status.cpython-313.pyc
+    ³       ³   ³   ³           style.cpython-313.pyc
+    ³       ³   ³   ³           styled.cpython-313.pyc
+    ³       ³   ³   ³           syntax.cpython-313.pyc
+    ³       ³   ³   ³           table.cpython-313.pyc
+    ³       ³   ³   ³           terminal_theme.cpython-313.pyc
+    ³       ³   ³   ³           text.cpython-313.pyc
+    ³       ³   ³   ³           theme.cpython-313.pyc
+    ³       ³   ³   ³           themes.cpython-313.pyc
+    ³       ³   ³   ³           traceback.cpython-313.pyc
+    ³       ³   ³   ³           tree.cpython-313.pyc
+    ³       ³   ³   ³           _cell_widths.cpython-313.pyc
+    ³       ³   ³   ³           _emoji_codes.cpython-313.pyc
+    ³       ³   ³   ³           _emoji_replace.cpython-313.pyc
+    ³       ³   ³   ³           _export_format.cpython-313.pyc
+    ³       ³   ³   ³           _extension.cpython-313.pyc
+    ³       ³   ³   ³           _fileno.cpython-313.pyc
+    ³       ³   ³   ³           _inspect.cpython-313.pyc
+    ³       ³   ³   ³           _log_render.cpython-313.pyc
+    ³       ³   ³   ³           _loop.cpython-313.pyc
+    ³       ³   ³   ³           _null_file.cpython-313.pyc
+    ³       ³   ³   ³           _palettes.cpython-313.pyc
+    ³       ³   ³   ³           _pick.cpython-313.pyc
+    ³       ³   ³   ³           _ratio.cpython-313.pyc
+    ³       ³   ³   ³           _spinners.cpython-313.pyc
+    ³       ³   ³   ³           _stack.cpython-313.pyc
+    ³       ³   ³   ³           _timer.cpython-313.pyc
+    ³       ³   ³   ³           _win32_console.cpython-313.pyc
+    ³       ³   ³   ³           _windows.cpython-313.pyc
+    ³       ³   ³   ³           _windows_renderer.cpython-313.pyc
+    ³       ³   ³   ³           _wrap.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           __main__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄtomli
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   _parser.py
+    ³       ³   ³   ³   ³   _re.py
+    ³       ³   ³   ³   ³   _types.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           _parser.cpython-313.pyc
+    ³       ³   ³   ³           _re.cpython-313.pyc
+    ³       ³   ³   ³           _types.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄtomli_w
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   _writer.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           _writer.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄtruststore
+    ³       ³   ³   ³   ³   py.typed
+    ³       ³   ³   ³   ³   _api.py
+    ³       ³   ³   ³   ³   _macos.py
+    ³       ³   ³   ³   ³   _openssl.py
+    ³       ³   ³   ³   ³   _ssl_constants.py
+    ³       ³   ³   ³   ³   _windows.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           _api.cpython-313.pyc
+    ³       ³   ³   ³           _macos.cpython-313.pyc
+    ³       ³   ³   ³           _openssl.cpython-313.pyc
+    ³       ³   ³   ³           _ssl_constants.cpython-313.pyc
+    ³       ³   ³   ³           _windows.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄurllib3
+    ³       ³   ³   ³   ³   connection.py
+    ³       ³   ³   ³   ³   connectionpool.py
+    ³       ³   ³   ³   ³   exceptions.py
+    ³       ³   ³   ³   ³   fields.py
+    ³       ³   ³   ³   ³   filepost.py
+    ³       ³   ³   ³   ³   poolmanager.py
+    ³       ³   ³   ³   ³   request.py
+    ³       ³   ³   ³   ³   response.py
+    ³       ³   ³   ³   ³   _collections.py
+    ³       ³   ³   ³   ³   _version.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÃÄÄÄcontrib
+    ³       ³   ³   ³   ³   ³   appengine.py
+    ³       ³   ³   ³   ³   ³   ntlmpool.py
+    ³       ³   ³   ³   ³   ³   pyopenssl.py
+    ³       ³   ³   ³   ³   ³   securetransport.py
+    ³       ³   ³   ³   ³   ³   socks.py
+    ³       ³   ³   ³   ³   ³   _appengine_environ.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÃÄÄÄ_securetransport
+    ³       ³   ³   ³   ³   ³   ³   bindings.py
+    ³       ³   ³   ³   ³   ³   ³   low_level.py
+    ³       ³   ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³           bindings.cpython-313.pyc
+    ³       ³   ³   ³   ³   ³           low_level.cpython-313.pyc
+    ³       ³   ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³   ³           
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           appengine.cpython-313.pyc
+    ³       ³   ³   ³   ³           ntlmpool.cpython-313.pyc
+    ³       ³   ³   ³   ³           pyopenssl.cpython-313.pyc
+    ³       ³   ³   ³   ³           securetransport.cpython-313.pyc
+    ³       ³   ³   ³   ³           socks.cpython-313.pyc
+    ³       ³   ³   ³   ³           _appengine_environ.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄpackages
+    ³       ³   ³   ³   ³   ³   six.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÃÄÄÄbackports
+    ³       ³   ³   ³   ³   ³   ³   makefile.py
+    ³       ³   ³   ³   ³   ³   ³   weakref_finalize.py
+    ³       ³   ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³   ³           makefile.cpython-313.pyc
+    ³       ³   ³   ³   ³   ³           weakref_finalize.cpython-313.pyc
+    ³       ³   ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³   ³           
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           six.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÃÄÄÄutil
+    ³       ³   ³   ³   ³   ³   connection.py
+    ³       ³   ³   ³   ³   ³   proxy.py
+    ³       ³   ³   ³   ³   ³   queue.py
+    ³       ³   ³   ³   ³   ³   request.py
+    ³       ³   ³   ³   ³   ³   response.py
+    ³       ³   ³   ³   ³   ³   retry.py
+    ³       ³   ³   ³   ³   ³   ssltransport.py
+    ³       ³   ³   ³   ³   ³   ssl_.py
+    ³       ³   ³   ³   ³   ³   ssl_match_hostname.py
+    ³       ³   ³   ³   ³   ³   timeout.py
+    ³       ³   ³   ³   ³   ³   url.py
+    ³       ³   ³   ³   ³   ³   wait.py
+    ³       ³   ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   ³   
+    ³       ³   ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³   ³           connection.cpython-313.pyc
+    ³       ³   ³   ³   ³           proxy.cpython-313.pyc
+    ³       ³   ³   ³   ³           queue.cpython-313.pyc
+    ³       ³   ³   ³   ³           request.cpython-313.pyc
+    ³       ³   ³   ³   ³           response.cpython-313.pyc
+    ³       ³   ³   ³   ³           retry.cpython-313.pyc
+    ³       ³   ³   ³   ³           ssltransport.cpython-313.pyc
+    ³       ³   ³   ³   ³           ssl_.cpython-313.pyc
+    ³       ³   ³   ³   ³           ssl_match_hostname.cpython-313.pyc
+    ³       ³   ³   ³   ³           timeout.cpython-313.pyc
+    ³       ³   ³   ³   ³           url.cpython-313.pyc
+    ³       ³   ³   ³   ³           wait.cpython-313.pyc
+    ³       ³   ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³   ³           
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           connection.cpython-313.pyc
+    ³       ³   ³   ³           connectionpool.cpython-313.pyc
+    ³       ³   ³   ³           exceptions.cpython-313.pyc
+    ³       ³   ³   ³           fields.cpython-313.pyc
+    ³       ³   ³   ³           filepost.cpython-313.pyc
+    ³       ³   ³   ³           poolmanager.cpython-313.pyc
+    ³       ³   ³   ³           request.cpython-313.pyc
+    ³       ³   ³   ³           response.cpython-313.pyc
+    ³       ³   ³   ³           _collections.cpython-313.pyc
+    ³       ³   ³   ³           _version.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           typing_extensions.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ³           __init__.cpython-313.pyc
+    ³       ³           __main__.cpython-313.pyc
+    ³       ³           __pip-runner__.cpython-313.pyc
+    ³       ³           
+    ³       ÃÄÄÄpip-25.1.1.dist-info
+    ³       ³   ³   entry_points.txt
+    ³       ³   ³   INSTALLER
+    ³       ³   ³   METADATA
+    ³       ³   ³   RECORD
+    ³       ³   ³   REQUESTED
+    ³       ³   ³   top_level.txt
+    ³       ³   ³   WHEEL
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄlicenses
+    ³       ³           AUTHORS.txt
+    ³       ³           LICENSE.txt
+    ³       ³           
+    ³       ÃÄÄÄpyaes
+    ³       ³   ³   aes.py
+    ³       ³   ³   blockfeeder.py
+    ³       ³   ³   util.py
+    ³       ³   ³   __init__.py
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ³           aes.cpython-313.pyc
+    ³       ³           blockfeeder.cpython-313.pyc
+    ³       ³           util.cpython-313.pyc
+    ³       ³           __init__.cpython-313.pyc
+    ³       ³           
+    ³       ÃÄÄÄpyaes-1.6.1.dist-info
+    ³       ³   ³   INSTALLER
+    ³       ³   ³   METADATA
+    ³       ³   ³   RECORD
+    ³       ³   ³   top_level.txt
+    ³       ³   ³   WHEEL
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄlicenses
+    ³       ³           LICENSE.txt
+    ³       ³           
+    ³       ÃÄÄÄpyasn1
+    ³       ³   ³   debug.py
+    ³       ³   ³   error.py
+    ³       ³   ³   __init__.py
+    ³       ³   ³   
+    ³       ³   ÃÄÄÄcodec
+    ³       ³   ³   ³   streaming.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÃÄÄÄber
+    ³       ³   ³   ³   ³   decoder.py
+    ³       ³   ³   ³   ³   encoder.py
+    ³       ³   ³   ³   ³   eoo.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           decoder.cpython-313.pyc
+    ³       ³   ³   ³           encoder.cpython-313.pyc
+    ³       ³   ³   ³           eoo.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄcer
+    ³       ³   ³   ³   ³   decoder.py
+    ³       ³   ³   ³   ³   encoder.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           decoder.cpython-313.pyc
+    ³       ³   ³   ³           encoder.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄder
+    ³       ³   ³   ³   ³   decoder.py
+    ³       ³   ³   ³   ³   encoder.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           decoder.cpython-313.pyc
+    ³       ³   ³   ³           encoder.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄnative
+    ³       ³   ³   ³   ³   decoder.py
+    ³       ³   ³   ³   ³   encoder.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           decoder.cpython-313.pyc
+    ³       ³   ³   ³           encoder.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           streaming.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄcompat
+    ³       ³   ³   ³   integer.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           integer.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄtype
+    ³       ³   ³   ³   base.py
+    ³       ³   ³   ³   char.py
+    ³       ³   ³   ³   constraint.py
+    ³       ³   ³   ³   error.py
+    ³       ³   ³   ³   namedtype.py
+    ³       ³   ³   ³   namedval.py
+    ³       ³   ³   ³   opentype.py
+    ³       ³   ³   ³   tag.py
+    ³       ³   ³   ³   tagmap.py
+    ³       ³   ³   ³   univ.py
+    ³       ³   ³   ³   useful.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           base.cpython-313.pyc
+    ³       ³   ³           char.cpython-313.pyc
+    ³       ³   ³           constraint.cpython-313.pyc
+    ³       ³   ³           error.cpython-313.pyc
+    ³       ³   ³           namedtype.cpython-313.pyc
+    ³       ³   ³           namedval.cpython-313.pyc
+    ³       ³   ³           opentype.cpython-313.pyc
+    ³       ³   ³           tag.cpython-313.pyc
+    ³       ³   ³           tagmap.cpython-313.pyc
+    ³       ³   ³           univ.cpython-313.pyc
+    ³       ³   ³           useful.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ³           debug.cpython-313.pyc
+    ³       ³           error.cpython-313.pyc
+    ³       ³           __init__.cpython-313.pyc
+    ³       ³           
+    ³       ÃÄÄÄpyasn1-0.6.1.dist-info
+    ³       ³       INSTALLER
+    ³       ³       LICENSE.rst
+    ³       ³       METADATA
+    ³       ³       RECORD
+    ³       ³       top_level.txt
+    ³       ³       WHEEL
+    ³       ³       zip-safe
+    ³       ³       
+    ³       ÃÄÄÄpython_dotenv-1.1.1.dist-info
+    ³       ³   ³   entry_points.txt
+    ³       ³   ³   INSTALLER
+    ³       ³   ³   METADATA
+    ³       ³   ³   RECORD
+    ³       ³   ³   REQUESTED
+    ³       ³   ³   top_level.txt
+    ³       ³   ³   WHEEL
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄlicenses
+    ³       ³           LICENSE
+    ³       ³           
+    ³       ÃÄÄÄrsa
+    ³       ³   ³   asn1.py
+    ³       ³   ³   cli.py
+    ³       ³   ³   common.py
+    ³       ³   ³   core.py
+    ³       ³   ³   key.py
+    ³       ³   ³   parallel.py
+    ³       ³   ³   pem.py
+    ³       ³   ³   pkcs1.py
+    ³       ³   ³   pkcs1_v2.py
+    ³       ³   ³   prime.py
+    ³       ³   ³   py.typed
+    ³       ³   ³   randnum.py
+    ³       ³   ³   transform.py
+    ³       ³   ³   util.py
+    ³       ³   ³   __init__.py
+    ³       ³   ³   
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ³           asn1.cpython-313.pyc
+    ³       ³           cli.cpython-313.pyc
+    ³       ³           common.cpython-313.pyc
+    ³       ³           core.cpython-313.pyc
+    ³       ³           key.cpython-313.pyc
+    ³       ³           parallel.cpython-313.pyc
+    ³       ³           pem.cpython-313.pyc
+    ³       ³           pkcs1.cpython-313.pyc
+    ³       ³           pkcs1_v2.cpython-313.pyc
+    ³       ³           prime.cpython-313.pyc
+    ³       ³           randnum.cpython-313.pyc
+    ³       ³           transform.cpython-313.pyc
+    ³       ³           util.cpython-313.pyc
+    ³       ³           __init__.cpython-313.pyc
+    ³       ³           
+    ³       ÃÄÄÄrsa-4.9.1.dist-info
+    ³       ³       entry_points.txt
+    ³       ³       INSTALLER
+    ³       ³       LICENSE
+    ³       ³       METADATA
+    ³       ³       RECORD
+    ³       ³       WHEEL
+    ³       ³       
+    ³       ÃÄÄÄtelethon
+    ³       ³   ³   custom.py
+    ³       ³   ³   functions.py
+    ³       ³   ³   helpers.py
+    ³       ³   ³   hints.py
+    ³       ³   ³   password.py
+    ³       ³   ³   requestiter.py
+    ³       ³   ³   sync.py
+    ³       ³   ³   types.py
+    ³       ³   ³   utils.py
+    ³       ³   ³   version.py
+    ³       ³   ³   __init__.py
+    ³       ³   ³   
+    ³       ³   ÃÄÄÄclient
+    ³       ³   ³   ³   account.py
+    ³       ³   ³   ³   auth.py
+    ³       ³   ³   ³   bots.py
+    ³       ³   ³   ³   buttons.py
+    ³       ³   ³   ³   chats.py
+    ³       ³   ³   ³   dialogs.py
+    ³       ³   ³   ³   downloads.py
+    ³       ³   ³   ³   messageparse.py
+    ³       ³   ³   ³   messages.py
+    ³       ³   ³   ³   telegrambaseclient.py
+    ³       ³   ³   ³   telegramclient.py
+    ³       ³   ³   ³   updates.py
+    ³       ³   ³   ³   uploads.py
+    ³       ³   ³   ³   users.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           account.cpython-313.pyc
+    ³       ³   ³           auth.cpython-313.pyc
+    ³       ³   ³           bots.cpython-313.pyc
+    ³       ³   ³           buttons.cpython-313.pyc
+    ³       ³   ³           chats.cpython-313.pyc
+    ³       ³   ³           dialogs.cpython-313.pyc
+    ³       ³   ³           downloads.cpython-313.pyc
+    ³       ³   ³           messageparse.cpython-313.pyc
+    ³       ³   ³           messages.cpython-313.pyc
+    ³       ³   ³           telegrambaseclient.cpython-313.pyc
+    ³       ³   ³           telegramclient.cpython-313.pyc
+    ³       ³   ³           updates.cpython-313.pyc
+    ³       ³   ³           uploads.cpython-313.pyc
+    ³       ³   ³           users.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄcrypto
+    ³       ³   ³   ³   aes.py
+    ³       ³   ³   ³   aesctr.py
+    ³       ³   ³   ³   authkey.py
+    ³       ³   ³   ³   cdndecrypter.py
+    ³       ³   ³   ³   factorization.py
+    ³       ³   ³   ³   libssl.py
+    ³       ³   ³   ³   rsa.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           aes.cpython-313.pyc
+    ³       ³   ³           aesctr.cpython-313.pyc
+    ³       ³   ³           authkey.cpython-313.pyc
+    ³       ³   ³           cdndecrypter.cpython-313.pyc
+    ³       ³   ³           factorization.cpython-313.pyc
+    ³       ³   ³           libssl.cpython-313.pyc
+    ³       ³   ³           rsa.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄerrors
+    ³       ³   ³   ³   common.py
+    ³       ³   ³   ³   rpcbaseerrors.py
+    ³       ³   ³   ³   rpcerrorlist.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           common.cpython-313.pyc
+    ³       ³   ³           rpcbaseerrors.cpython-313.pyc
+    ³       ³   ³           rpcerrorlist.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄevents
+    ³       ³   ³   ³   album.py
+    ³       ³   ³   ³   callbackquery.py
+    ³       ³   ³   ³   chataction.py
+    ³       ³   ³   ³   common.py
+    ³       ³   ³   ³   inlinequery.py
+    ³       ³   ³   ³   messagedeleted.py
+    ³       ³   ³   ³   messageedited.py
+    ³       ³   ³   ³   messageread.py
+    ³       ³   ³   ³   newmessage.py
+    ³       ³   ³   ³   raw.py
+    ³       ³   ³   ³   userupdate.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           album.cpython-313.pyc
+    ³       ³   ³           callbackquery.cpython-313.pyc
+    ³       ³   ³           chataction.cpython-313.pyc
+    ³       ³   ³           common.cpython-313.pyc
+    ³       ³   ³           inlinequery.cpython-313.pyc
+    ³       ³   ³           messagedeleted.cpython-313.pyc
+    ³       ³   ³           messageedited.cpython-313.pyc
+    ³       ³   ³           messageread.cpython-313.pyc
+    ³       ³   ³           newmessage.cpython-313.pyc
+    ³       ³   ³           raw.cpython-313.pyc
+    ³       ³   ³           userupdate.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄextensions
+    ³       ³   ³   ³   binaryreader.py
+    ³       ³   ³   ³   html.py
+    ³       ³   ³   ³   markdown.py
+    ³       ³   ³   ³   messagepacker.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           binaryreader.cpython-313.pyc
+    ³       ³   ³           html.cpython-313.pyc
+    ³       ³   ³           markdown.cpython-313.pyc
+    ³       ³   ³           messagepacker.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄnetwork
+    ³       ³   ³   ³   authenticator.py
+    ³       ³   ³   ³   mtprotoplainsender.py
+    ³       ³   ³   ³   mtprotosender.py
+    ³       ³   ³   ³   mtprotostate.py
+    ³       ³   ³   ³   requeststate.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÃÄÄÄconnection
+    ³       ³   ³   ³   ³   connection.py
+    ³       ³   ³   ³   ³   http.py
+    ³       ³   ³   ³   ³   tcpabridged.py
+    ³       ³   ³   ³   ³   tcpfull.py
+    ³       ³   ³   ³   ³   tcpintermediate.py
+    ³       ³   ³   ³   ³   tcpmtproxy.py
+    ³       ³   ³   ³   ³   tcpobfuscated.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           connection.cpython-313.pyc
+    ³       ³   ³   ³           http.cpython-313.pyc
+    ³       ³   ³   ³           tcpabridged.cpython-313.pyc
+    ³       ³   ³   ³           tcpfull.cpython-313.pyc
+    ³       ³   ³   ³           tcpintermediate.cpython-313.pyc
+    ³       ³   ³   ³           tcpmtproxy.cpython-313.pyc
+    ³       ³   ³   ³           tcpobfuscated.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           authenticator.cpython-313.pyc
+    ³       ³   ³           mtprotoplainsender.cpython-313.pyc
+    ³       ³   ³           mtprotosender.cpython-313.pyc
+    ³       ³   ³           mtprotostate.cpython-313.pyc
+    ³       ³   ³           requeststate.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄsessions
+    ³       ³   ³   ³   abstract.py
+    ³       ³   ³   ³   memory.py
+    ³       ³   ³   ³   sqlite.py
+    ³       ³   ³   ³   string.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           abstract.cpython-313.pyc
+    ³       ³   ³           memory.cpython-313.pyc
+    ³       ³   ³           sqlite.cpython-313.pyc
+    ³       ³   ³           string.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄtl
+    ³       ³   ³   ³   alltlobjects.py
+    ³       ³   ³   ³   tlobject.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÃÄÄÄcore
+    ³       ³   ³   ³   ³   gzippacked.py
+    ³       ³   ³   ³   ³   messagecontainer.py
+    ³       ³   ³   ³   ³   rpcresult.py
+    ³       ³   ³   ³   ³   tlmessage.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           gzippacked.cpython-313.pyc
+    ³       ³   ³   ³           messagecontainer.cpython-313.pyc
+    ³       ³   ³   ³           rpcresult.cpython-313.pyc
+    ³       ³   ³   ³           tlmessage.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄcustom
+    ³       ³   ³   ³   ³   adminlogevent.py
+    ³       ³   ³   ³   ³   button.py
+    ³       ³   ³   ³   ³   chatgetter.py
+    ³       ³   ³   ³   ³   conversation.py
+    ³       ³   ³   ³   ³   dialog.py
+    ³       ³   ³   ³   ³   draft.py
+    ³       ³   ³   ³   ³   file.py
+    ³       ³   ³   ³   ³   forward.py
+    ³       ³   ³   ³   ³   inlinebuilder.py
+    ³       ³   ³   ³   ³   inlineresult.py
+    ³       ³   ³   ³   ³   inlineresults.py
+    ³       ³   ³   ³   ³   inputsizedfile.py
+    ³       ³   ³   ³   ³   message.py
+    ³       ³   ³   ³   ³   messagebutton.py
+    ³       ³   ³   ³   ³   participantpermissions.py
+    ³       ³   ³   ³   ³   qrlogin.py
+    ³       ³   ³   ³   ³   sendergetter.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           adminlogevent.cpython-313.pyc
+    ³       ³   ³   ³           button.cpython-313.pyc
+    ³       ³   ³   ³           chatgetter.cpython-313.pyc
+    ³       ³   ³   ³           conversation.cpython-313.pyc
+    ³       ³   ³   ³           dialog.cpython-313.pyc
+    ³       ³   ³   ³           draft.cpython-313.pyc
+    ³       ³   ³   ³           file.cpython-313.pyc
+    ³       ³   ³   ³           forward.cpython-313.pyc
+    ³       ³   ³   ³           inlinebuilder.cpython-313.pyc
+    ³       ³   ³   ³           inlineresult.cpython-313.pyc
+    ³       ³   ³   ³           inlineresults.cpython-313.pyc
+    ³       ³   ³   ³           inputsizedfile.cpython-313.pyc
+    ³       ³   ³   ³           message.cpython-313.pyc
+    ³       ³   ³   ³           messagebutton.cpython-313.pyc
+    ³       ³   ³   ³           participantpermissions.cpython-313.pyc
+    ³       ³   ³   ³           qrlogin.cpython-313.pyc
+    ³       ³   ³   ³           sendergetter.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄfunctions
+    ³       ³   ³   ³   ³   account.py
+    ³       ³   ³   ³   ³   auth.py
+    ³       ³   ³   ³   ³   bots.py
+    ³       ³   ³   ³   ³   channels.py
+    ³       ³   ³   ³   ³   chatlists.py
+    ³       ³   ³   ³   ³   contacts.py
+    ³       ³   ³   ³   ³   folders.py
+    ³       ³   ³   ³   ³   fragment.py
+    ³       ³   ³   ³   ³   help.py
+    ³       ³   ³   ³   ³   langpack.py
+    ³       ³   ³   ³   ³   messages.py
+    ³       ³   ³   ³   ³   payments.py
+    ³       ³   ³   ³   ³   phone.py
+    ³       ³   ³   ³   ³   photos.py
+    ³       ³   ³   ³   ³   premium.py
+    ³       ³   ³   ³   ³   smsjobs.py
+    ³       ³   ³   ³   ³   stats.py
+    ³       ³   ³   ³   ³   stickers.py
+    ³       ³   ³   ³   ³   stories.py
+    ³       ³   ³   ³   ³   updates.py
+    ³       ³   ³   ³   ³   upload.py
+    ³       ³   ³   ³   ³   users.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           account.cpython-313.pyc
+    ³       ³   ³   ³           auth.cpython-313.pyc
+    ³       ³   ³   ³           bots.cpython-313.pyc
+    ³       ³   ³   ³           channels.cpython-313.pyc
+    ³       ³   ³   ³           chatlists.cpython-313.pyc
+    ³       ³   ³   ³           contacts.cpython-313.pyc
+    ³       ³   ³   ³           folders.cpython-313.pyc
+    ³       ³   ³   ³           fragment.cpython-313.pyc
+    ³       ³   ³   ³           help.cpython-313.pyc
+    ³       ³   ³   ³           langpack.cpython-313.pyc
+    ³       ³   ³   ³           messages.cpython-313.pyc
+    ³       ³   ³   ³           payments.cpython-313.pyc
+    ³       ³   ³   ³           phone.cpython-313.pyc
+    ³       ³   ³   ³           photos.cpython-313.pyc
+    ³       ³   ³   ³           premium.cpython-313.pyc
+    ³       ³   ³   ³           smsjobs.cpython-313.pyc
+    ³       ³   ³   ³           stats.cpython-313.pyc
+    ³       ³   ³   ³           stickers.cpython-313.pyc
+    ³       ³   ³   ³           stories.cpython-313.pyc
+    ³       ³   ³   ³           updates.cpython-313.pyc
+    ³       ³   ³   ³           upload.cpython-313.pyc
+    ³       ³   ³   ³           users.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄpatched
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÃÄÄÄtypes
+    ³       ³   ³   ³   ³   account.py
+    ³       ³   ³   ³   ³   auth.py
+    ³       ³   ³   ³   ³   bots.py
+    ³       ³   ³   ³   ³   channels.py
+    ³       ³   ³   ³   ³   chatlists.py
+    ³       ³   ³   ³   ³   contacts.py
+    ³       ³   ³   ³   ³   fragment.py
+    ³       ³   ³   ³   ³   help.py
+    ³       ³   ³   ³   ³   messages.py
+    ³       ³   ³   ³   ³   payments.py
+    ³       ³   ³   ³   ³   phone.py
+    ³       ³   ³   ³   ³   photos.py
+    ³       ³   ³   ³   ³   premium.py
+    ³       ³   ³   ³   ³   smsjobs.py
+    ³       ³   ³   ³   ³   stats.py
+    ³       ³   ³   ³   ³   stickers.py
+    ³       ³   ³   ³   ³   storage.py
+    ³       ³   ³   ³   ³   stories.py
+    ³       ³   ³   ³   ³   updates.py
+    ³       ³   ³   ³   ³   upload.py
+    ³       ³   ³   ³   ³   users.py
+    ³       ³   ³   ³   ³   __init__.py
+    ³       ³   ³   ³   ³   
+    ³       ³   ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³   ³           account.cpython-313.pyc
+    ³       ³   ³   ³           auth.cpython-313.pyc
+    ³       ³   ³   ³           bots.cpython-313.pyc
+    ³       ³   ³   ³           channels.cpython-313.pyc
+    ³       ³   ³   ³           chatlists.cpython-313.pyc
+    ³       ³   ³   ³           contacts.cpython-313.pyc
+    ³       ³   ³   ³           fragment.cpython-313.pyc
+    ³       ³   ³   ³           help.cpython-313.pyc
+    ³       ³   ³   ³           messages.cpython-313.pyc
+    ³       ³   ³   ³           payments.cpython-313.pyc
+    ³       ³   ³   ³           phone.cpython-313.pyc
+    ³       ³   ³   ³           photos.cpython-313.pyc
+    ³       ³   ³   ³           premium.cpython-313.pyc
+    ³       ³   ³   ³           smsjobs.cpython-313.pyc
+    ³       ³   ³   ³           stats.cpython-313.pyc
+    ³       ³   ³   ³           stickers.cpython-313.pyc
+    ³       ³   ³   ³           storage.cpython-313.pyc
+    ³       ³   ³   ³           stories.cpython-313.pyc
+    ³       ³   ³   ³           updates.cpython-313.pyc
+    ³       ³   ³   ³           upload.cpython-313.pyc
+    ³       ³   ³   ³           users.cpython-313.pyc
+    ³       ³   ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³   ³           
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           alltlobjects.cpython-313.pyc
+    ³       ³   ³           tlobject.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÃÄÄÄ_updates
+    ³       ³   ³   ³   entitycache.py
+    ³       ³   ³   ³   messagebox.py
+    ³       ³   ³   ³   session.py
+    ³       ³   ³   ³   __init__.py
+    ³       ³   ³   ³   
+    ³       ³   ³   ÀÄÄÄ__pycache__
+    ³       ³   ³           entitycache.cpython-313.pyc
+    ³       ³   ³           messagebox.cpython-313.pyc
+    ³       ³   ³           session.cpython-313.pyc
+    ³       ³   ³           __init__.cpython-313.pyc
+    ³       ³   ³           
+    ³       ³   ÀÄÄÄ__pycache__
+    ³       ³           custom.cpython-313.pyc
+    ³       ³           functions.cpython-313.pyc
+    ³       ³           helpers.cpython-313.pyc
+    ³       ³           hints.cpython-313.pyc
+    ³       ³           password.cpython-313.pyc
+    ³       ³           requestiter.cpython-313.pyc
+    ³       ³           sync.cpython-313.pyc
+    ³       ³           types.cpython-313.pyc
+    ³       ³           utils.cpython-313.pyc
+    ³       ³           version.cpython-313.pyc
+    ³       ³           __init__.cpython-313.pyc
+    ³       ³           
+    ³       ÀÄÄÄTelethon-1.40.0.dist-info
+    ³               INSTALLER
+    ³               LICENSE
+    ³               METADATA
+    ³               RECORD
+    ³               REQUESTED
+    ³               top_level.txt
+    ³               WHEEL
+    ³               
+    ÀÄÄÄScripts
+        ³   activate
+        ³   activate.bat
+        ³   activate.fish
+        ³   Activate.ps1
+        ³   deactivate.bat
+        ³   dotenv.exe
+        ³   IDLE (Python 3.13 64-bit).lnk
+        ³   pip.exe
+        ³   pip3.13.exe
+        ³   pip3.exe
+        ³   pyrsa-decrypt.exe
+        ³   pyrsa-encrypt.exe
+        ³   pyrsa-keygen.exe
+        ³   pyrsa-priv2pub.exe
+        ³   pyrsa-sign.exe
+        ³   pyrsa-verify.exe
+        ³   Python 3.13 (64-bit).lnk
+        ³   Python 3.13 Manuals (64-bit).lnk
+        ³   Python 3.13 Module Docs (64-bit).lnk
+        ³   python.exe
+        ³   pythonw.exe
+        ³   
+        ÀÄÄÄPython 3.13
+                IDLE (Python 3.13 64-bit).lnk
+                Python 3.13 (64-bit).lnk
+                Python 3.13 Manuals (64-bit).lnk
+                Python 3.13 Module Docs (64-bit).lnk
+                
