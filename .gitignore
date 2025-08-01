@@ -1,1 +1,8 @@
+.vscode/
+*.code-workspace
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 .env
+Git-2.50.1-64-bit.exe
