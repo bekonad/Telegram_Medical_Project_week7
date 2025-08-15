@@ -49,7 +49,7 @@ Hi! I'm working on a cool project that uses Telegram to collect medical data, li
 - **Python Scripts**: Run a script to process data or automate tasks:
 
   ```bash
-  python scripts/main.py
+  scripts/main.py
   ```
 
 ## Who’s Behind This
